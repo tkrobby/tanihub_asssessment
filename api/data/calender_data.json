@@ -1,0 +1,22 @@
+{
+    "datavalid": {
+        "api_key": "5adbf3b69e48a83aaa1c5d2e23383f0b7fa7f34e",
+        "country": "ID",
+        "year": "2019"
+    },
+    "holiday2018": {
+        "api_key": "5adbf3b69e48a83aaa1c5d2e23383f0b7fa7f34e",
+        "country": "ID",
+        "year": "2018"
+    },
+    "invalidKey": {
+        "api_key": "5adbf3b69e48a83aaa1c5d2e23383f0b7fa7f34e0as",
+        "country": "ID",
+        "year": "2018"
+    },
+    "invalidCountry": {
+        "api_key": "5adbf3b69e48a83aaa1c5d2e23383f0b7fa7f34e",
+        "country": "8091278013021",
+        "year": "2018"
+    }
+}
