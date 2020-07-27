@@ -1,0 +1,7 @@
+{
+    "successOk": 200,
+    "successCreated": 201,
+    "successAccepted": 202,
+    "successNoContent": 204,
+    "unprocessableEntity": 422
+}
