@@ -1,8 +1,8 @@
 {
     "validLogin" : {
-            "phone_number": "+6282166308890",
-            "password": "00000000",
-            "role": "CUSTOMER"  
+        "phone_number": "+6282166308890",
+        "password": "00000000",
+        "role": "CUSTOMER"  
     },
     "invalidUser" : {
         "phone_number": "+6282166308890",

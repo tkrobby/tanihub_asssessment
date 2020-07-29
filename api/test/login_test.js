@@ -3,7 +3,7 @@ const chai = require('chai');
 chai.use(require('chai-json-schema'));
 
 const data = require('../data/login_data.json')
-const pageLogin = require('../page/login_page.js')
+const pageLogin = require('../page/v1/login_page.js')
 const schema = require('../schema/login_schema.json')
 const code = require('../helper/reponse_code_message.json')
 
