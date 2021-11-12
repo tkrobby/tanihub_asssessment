@@ -7,8 +7,8 @@ Install Node.js
 rename envsampe to .env
 
 Step to use this FW:
-1. Clone
-2. npm install
-3. npm run test-api 
-4. npm run reports
+1. Clone this repository : git clone https://github.com/tkrobby/tanihub_sssessment.git
+2. Install : npm install
+3. For running this testing : npm run test-api 
+4. For show report result testing : npm run reports
 
