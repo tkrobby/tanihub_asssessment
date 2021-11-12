@@ -3,10 +3,8 @@ const env = require('dotenv').config();
 
 const api = supertest(process.env.BASE_URL);
 
-const loginApps = (data) => api.post('/v1/account/auth/login')
-    .set('Content-Type', 'application/json')
-    .send(data)
+const ServiceVehicles = () => api.get('/vehicles/')
 
 module.exports = {
-    loginApps,
+    ServiceVehicles,
 }

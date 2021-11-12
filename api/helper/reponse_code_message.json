@@ -3,5 +3,6 @@
     "successCreated": 201,
     "successAccepted": 202,
     "successNoContent": 204,
-    "unprocessableEntity": 422
+    "unprocessableEntity": 422,
+    "unauthorized" : 401
 }
